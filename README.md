@@ -2,7 +2,7 @@
 
 Data and product executive. Teaching AI to write SQL so humans don't have to.
 
-10 years in ad tech building analytics programs, data platforms, and leading products growing 8-figure revenue to 9-figure revenue.  Short stint leading enterprise product at CertiK and data and platform product at XR Extreme Reach. Most recently, through Columnbo LLC, I built the evaluation program for an AI data agent: 235 test scenarios, each traced to a real failure, which doubled the agent's pass rate with zero regressions. Cornell ECE '09.
+10 years in ad tech building analytics programs, data platforms, and leading products growing 8-figure revenue to 9-figure revenue.  Short stint leading enterprise product at CertiK and data and platform product at XR Extreme Reach. Most recently, through Columnbo LLC, I built the evaluation program for an AI data agent: 235 test scenarios, each traced to a real failure, plus a prototype auto-fix loop that raised the pass rate by single-digit points with no human in the loop. Cornell ECE '09.
 
 ## Things I've built lately
 
